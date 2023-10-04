@@ -1,0 +1,4 @@
+echo -e \e[3;33m Walter will be great \e[0m 
+
+
+italics and orange text colors

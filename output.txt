@@ -1,0 +1,7 @@
+array.sh
+calc.sh
+hello_world.sh
+output.txt
+string.sh
+variables.sh
+/home/walter
